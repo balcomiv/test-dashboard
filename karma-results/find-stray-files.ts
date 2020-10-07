@@ -8,7 +8,7 @@ import {
   excludedFiles,
   projectPath,
   resultsFile,
-} from './support/karma-result.env';
+} from './support/karma-results.env';
 
 const files = sync(`${projectPath}.spec.ts`, { ignore: excludedFiles });
 

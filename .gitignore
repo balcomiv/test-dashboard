@@ -44,4 +44,4 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-karma-results/support/karma-result.env.ts
+karma-results/support/karma-results.env.ts
